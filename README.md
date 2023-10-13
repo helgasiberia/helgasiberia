@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @helgasiberia
-- 👀 I’m interested in Data analtics
-- 📫 Telegram @helgasiberia
+- 👋 Hi, 
 
-<!---
-helgasiberia/helgasiberia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Olga
+Experienced professional with over 15 years of expertise in leading E-com and FMCG companies in Commertial Operations and analytics. Passionate about process improvement through automation, testing, and implementation. 
+
+DevOps Tools:
+Python, Pandas, SQL, Excel, Power Query, Tableau, Power BI, AirFlow, Git;
+
+Databases:
+SAP, Olap, Vertica
+
+Data Analysis:
+Python, Pandas, Numpy, SciPy, Matplotlib, Plotly, Json, Folium
